@@ -6,4 +6,4 @@ The main objective of this book and the SVM series is to introduce the reader to
 
 ## This is a work in progress.
 
-The volume is primarily being written in LateX and will be distributed both through the web and through a traditional textbook.
+The volume is primarily being written in LaTeX and will be distributed both through the web and through a traditional textbook.
