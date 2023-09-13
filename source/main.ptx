@@ -46,8 +46,42 @@
       </colophon>
     </frontmatter>
 
-    <chapter xml:id="chapter-title">
-      <title>Chapter title</title>
+    <chapter xml:id="vulprisian-octal-system">
+      <title>Vulprisian Octal System</title>
+
+      <introduction>
+        <p>
+          This publication is a study in early Vulprisian mathematics. This first volume will introduce the 
+          Vulprisian mathematics system, its common notation, structure and the basic operations that will be the 
+          foundation for the concepts that follow. This volume is directed at students who have a complete grasp of 
+          the foundational mathe- matics needed for algebra, calculus, etc., as being able to use multiplication, 
+          division, addition and subtraction are needed to translate between Vulprisian base-8 (octal number system) 
+          and Terran base-10 (decimal number system). There generally will be no need for an exhaustive explanation 
+          of the Vulprisian names for their numbers as humans will understand more when numbers are translated to 
+          their system.  
+        </p>
+        <p>
+          Chapter 1 introduces the Vulprisian number system as well as the initial op- erations of addition, 
+          subtraction, multiplication and division. The chapter also will introduce the symbols and generally 
+          practiced formats for displaying such opera- tions. The chapter will then combine these operations before 
+          introducing fractional numbers within the Vulprisian system.
+        </p>
+        <p>
+          It is important to introduce these most elementary of operations from a new perspective as Terran students 
+          may be completely unfamiliar with performing cal- culations within a numerical-base other than 10, having 
+          utilized the decimal system for their entire academic careers. Therefore the main objective of this chapter 
+          is to demonstrate that an octal system functions in much the same way with the caveat that the student 
+          commits to memory the threshold numbers that govern the number 8 raised to progressively larger values 
+          (81 = 8, 82 = 64, 83 = 512, 84 = 4, 096, ...)    
+        </p>
+        <p>
+          The chapter will conclude with the introduction of the Vulprisian Hierarchy of Operations explained 
+          thoroughly, providing another major component to the under- standing of elementary Vulprisian mathematics.    
+        </p>
+      </introduction>
+      
+      
+      
 
       <section xml:id="section-title">
         <title>Section title</title>

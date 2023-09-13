@@ -1,0 +1,10 @@
+INFO    : PreTeXt project found in `/workspaces/VAoS-SVM-1`.
+WARNING : Using CLI version 2.0.0 but project's `requirements.txt`
+WARNING : is configured to use 1.7.5. Consider either installing
+WARNING : CLI version 1.7.5 or changing `requirements.txt` to match 2.0.0.
+ERROR   : XML Syntax Error caused build to fail:
+ERROR   : /workspaces/VAoS-SVM-1/source/main.ptx:59:26:FATAL:PARSER:ERR_TAG_NAME_MISMATCH: Opening and ending tag mismatch: introd line 52 and p
+CRITICAL: XML syntax for source file is invalid
+INFO    : ------------------------
+INFO    : While running pretext, the following errors occurred:
+
