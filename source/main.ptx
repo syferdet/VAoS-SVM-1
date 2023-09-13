@@ -11,16 +11,16 @@
     </latex-image-preamble>
   </docinfo>
 
-  <book xml:id="my-great-book">
-    <title>My Great Book</title>
-    <subtitle>An example to get you started</subtitle>
+  <book xml:id="elementary-math-in-the-vulprisian-system">
+    <title>Elementary Mathematics In the Vulprisian System</title>
+    <subtitle>Companion text to VAoS 01:383:015</subtitle>
 
     <frontmatter xml:id="frontmatter">
       <titlepage>
         <author>
-          <personname>You</personname>
-          <department>Your department</department>
-          <institution>Your institution</institution>
+          <personname>Brian M. Knoblock</personname>
+          <department>Department of Mathematics</department>
+          <institution>Vulprisian Academy of Sceiences</institution>
         </author>
         <date>
           <today />
