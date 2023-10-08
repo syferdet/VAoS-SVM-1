@@ -1,19 +1,13 @@
-# PreTeXt Codespace
+# VAoS Book SVM-1
 
-Use this template repository to quickly start a new [PreTeXt](https://pretextbook.org) project entirely in the cloud, using GitHub Codespaces.  
+Elementary Mathematics in the Vulprisian System is the first volume of the Series in Vulprisian Mathematics. The series code is SVM and the book number is 1.
 
-## Instructions
+The main objective of this publication, and to a larger extent the first volumes of the SVM series, is to introduce the reader to the base-8 Vulptisian mathematics system.
 
-Look for the green button at the top right of this page.  If the button says `Use this template`, then you are ready to create a new repository for your project.  Click on the button and select "Create a new repository".  On the next page, give your project a name, select public or private (this can be changed later), and click the "Create repository from template" button.
+## This is a work in progress.
 
-You now have a GitHub repository saved in your account.  You can come back to that page any time you want to work on your project (note the URL or else find it in the list of your repositories when you log in to GitHub).
+The volume is primarily being written in LaTeX and will be distributed both through the web and through a traditional textbook. The writing and development of the LaTeX publication is done simultaniously utilizing a local Texshop installation and the online editor Overleaf. As sections and chapters are completed they will be updated in parallel here to test the readability of the publication from a web perspective.
 
-To start work on your project, go to the green button at the top of *your* repository's page, which will say `<> Code`.  
+## Assistance will ultimately be needed in getting the Vulprisian font to display on the web publication.
 
-1. Click on this button.
-2. Click on the tab that says "Codespaces."
-3. Click "Create codespace on main."
-
-This take a minute or two (just the first time; later this will be much faster) and then open a browser version of VS Code with everything set up to start working.  It will generate a new pretext book (and replace this README with one you can edit for your project). 
-
-Next time you want to work on your book, return to your newly created repository, go to the green `<> Code` button, and select the codespace you previously created.  If you don't see that codespace (perhaps you deleted it to save space), you can always create a new codespace.
+A special .ttf font package has been created in order to display the Vulprisian digits and glyphs of their modern alphabet. This will be needed within the web version as all mathematical examples use the Vulprisian digits. Names of Vulprisian mathematicians, historical figures, place names, etc., will also be needed.
